@@ -1,0 +1,4 @@
+Shiny notes
+
+Build Shiny-server
+Install X2Go on Gondalin?
